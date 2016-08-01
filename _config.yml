@@ -1,4 +1,3 @@
-layout_spectrum: 0.2541510758455843
 typography_spectrum: 0.5117882802151144
 color:
   brandStrength: 0.4594552186317742
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.2541510758455843
 name: Rimo
+title: Just Net
 description: JIT
